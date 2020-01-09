@@ -49,17 +49,17 @@ class FormPage(object):
 
 
 login_cred = {
-    'username': 'StepstoLiteracy',
-    'password': '4EasyStreet!'
+    'username': 'username',
+    'password': 'password'
 }
 
 form_data = {
-    'company': 'Steps To Literacy',
+    'company': 'company',
     'pub_date': '2019',
     'price': '10000'
 }
 
-filename = 'C:/Users/steps/Desktop/Bowker/isbn_data.csv'
+filename = 'C:/Users/path/Bowker/isbn_data.csv'
 
 isbn_data = []
 description_data = []
